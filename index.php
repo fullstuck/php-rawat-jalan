@@ -9,13 +9,12 @@
     <meta name="author" content="">
 
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.css">
-    <link rel="stylesheet" href="lib/font-awesome/css/font-awesome.css">
+	<link rel="stylesheet" type="text/css" href="admin/lib/bootstrap/css/bootstrap.css">    
+	
+	<script src="admin/lib/jquery-1.11.1.min.js" type="text/javascript"></script>
 
-    <script src="lib/jquery-1.11.1.min.js" type="text/javascript"></script>
-
-    
-
+    <script src="admin/lib/jQuery-Knob/js/jquery.knob.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="admin/lib/font-awesome/css/font-awesome.css">
     <link rel="stylesheet" type="text/css" href="stylesheets/theme.css">
     <link rel="stylesheet" type="text/css" href="stylesheets/premium.css">
 
@@ -118,8 +117,8 @@
 
 
 
-    <script src="lib/bootstrap/js/bootstrap.js"></script>
-    <script type="text/javascript">
+	<script src="lib/bootstrap/js/bootstrap.js"></script>
+	<script type="text/javascript">
         $("[rel=tooltip]").tooltip();
         $(function() {
             $('.demo-cancel-click').click(function(){return false;});
