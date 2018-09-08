@@ -15,8 +15,8 @@
 
     <script src="admin/lib/jQuery-Knob/js/jquery.knob.js" type="text/javascript"></script>
 	<link rel="stylesheet" href="admin/lib/font-awesome/css/font-awesome.css">
-    <link rel="stylesheet" type="text/css" href="stylesheets/theme.css">
-    <link rel="stylesheet" type="text/css" href="stylesheets/premium.css">
+    <link rel="stylesheet" type="text/css" href="admin/stylesheets/theme.css">
+    <link rel="stylesheet" type="text/css" href="admin/stylesheets/premium.css">
 
 </head>
 <body class=" theme-blue">
@@ -117,7 +117,7 @@
 
 
 
-	<script src="lib/bootstrap/js/bootstrap.js"></script>
+	<script src="admin/lib/bootstrap/js/bootstrap.js"></script>
 	<script type="text/javascript">
         $("[rel=tooltip]").tooltip();
         $(function() {
